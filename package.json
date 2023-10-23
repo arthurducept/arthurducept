@@ -1,0 +1,22 @@
+{
+  "name": "github-portfolio",
+  "version": "1.0.0",
+  "description": "Github description of my profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arthurducept/arthurducept.git"
+  },
+  "author": "arthurducept",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurducept/arthurducept/issues"
+  },
+  "homepage": "https://github.com/arthurducept/arthurducept#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
