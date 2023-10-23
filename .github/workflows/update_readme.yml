@@ -30,6 +30,7 @@ jobs:
           # author_name: 'The Force :rocket:'
           # author_email: contact@arthurducept.fr
           author_name: Arthur Ducept
+          author_email: arthur.ducept@gmail.com
           force: false
           signoff: false
           message: ':memo: README.md updated by power of the Force! :rocket:'
