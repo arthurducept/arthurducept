@@ -7,7 +7,6 @@ function getFormattedDate() {
   const months = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"];
 
   const date = new Date();
-  date.setDate(date.getDate());
   const day = days[date.getDay()];
   const dayOfMonth = date.getDate();
   const month = months[date.getMonth()];
