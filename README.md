@@ -33,3 +33,7 @@ La Formule 1 ? Comptez-moi dedans ! Rien de tel qu'un bon Grand Prix pour piment
 🔗 Réseaux : [Portfolio](https://arthurducept.fr) • [LinkedIn](https://www.linkedin.com/in/arthur-ducept/) • [StackOverflow](https://stackoverflow.com/users/14351523/arthur-ducept) • [LeetCode](https://leetcode.com/arthurducept/)  
 📧 Email : [contact@arthurducept.fr](mailto:contact@arthurducept.fr)  
 N'hésitez pas à jeter un œil à mes repos, à les étoiler ⭐ si vous les trouvez intéressants et à me contacter pour toute collaboration !
+<br><br><br><br>
+
+---
+_Last Modified: 23 Octobre 2023_
