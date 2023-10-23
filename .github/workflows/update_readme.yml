@@ -25,11 +25,11 @@ jobs:
       - name: commit changes
         uses: EndBug/add-and-commit@v4
         with:
-          author_name: 'The Force 🚀'
+          author_name: '🚀 The Force'
           author_email: contact@arthurducept.fr
           force: false
           signoff: false
-          message: ':memo: README.md updated by power of the Force! :rocket:'
+          message: ':memo: README.md updated by power of the Force!  :rocket:'
         env:
           # This is necessary in order to push a commit to the repo
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
