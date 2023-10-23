@@ -27,8 +27,9 @@ jobs:
       - name: commit changes
         uses: EndBug/add-and-commit@v4
         with:
-          author_name: 'The Force :rocket:'
-          author_email: contact@arthurducept.fr
+          # author_name: 'The Force :rocket:'
+          # author_email: contact@arthurducept.fr
+          author_name: Arthur Ducept
           force: false
           signoff: false
           message: ':memo: README.md updated by power of the Force! :rocket:'
