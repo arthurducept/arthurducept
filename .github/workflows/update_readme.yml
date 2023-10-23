@@ -27,7 +27,7 @@ jobs:
       - name: commit changes
         uses: EndBug/add-and-commit@v4
         with:
-          author_name: 'The Force :rocket:'
+          author_name: 'The Force 🚀'
           author_email: contact@arthurducept.fr
           force: false
           signoff: false
