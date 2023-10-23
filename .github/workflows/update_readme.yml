@@ -3,9 +3,7 @@ name: Update README all day at 13:37
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'
     - cron: '37 13 * * *'
-    - cron: '45 18 * * *'
 
 jobs:
   update-readme:
