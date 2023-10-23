@@ -4,7 +4,8 @@ on:
   schedule:
     # “At 13:37 on every day-of-week.”
     # - cron: '37 13 * * *'
-    - cron: '33 21 * * *'
+    # every 2 minutes
+    - cron: '*/2 * * * *'
 
 jobs:
   update-readme:
