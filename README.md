@@ -36,4 +36,4 @@ N'hésitez pas à jeter un œil à mes repos, à les étoiler ⭐ si vous les tr
 <br><br><br><br>
 
 ---
-_Last Modified: Mer 25 Octobre 2023_
+_Last Modified: Jeu 26 Octobre 2023_
