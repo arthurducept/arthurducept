@@ -22,8 +22,8 @@ fs.readFile(path, 'utf8', function(err, data) {
     return console.log(err);
   }
 
-  // Remplacement de la ligne "_Last Modified: ..."
-  const result = data.replace(/_Last Modified: .+?_/, `_Last Modified: ${getFormattedDate()}_`);
+  // Remplacement de la ligne "_Last Updated: ..."
+  const result = data.replace(/_Last Updated: .+?_/, `_Last Updated: ${getFormattedDate()}_`);
 
   // Écriture du nouveau contenu dans le fichier
   fs.writeFile(path, result, 'utf8', function(err) {
