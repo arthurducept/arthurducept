@@ -1,4 +1,6 @@
 # Hello there 👋
+
+*[EN version](./README-EN.md)*<br>  
 Salut, je suis Arthur DUCEPT, un développeur logiciel passionné par l'art du code bien conçu. Mon objectif ? Devenir un architecte logiciel accompli. J'adore me plonger dans le clean code, la clean architecture, les design patterns et toutes les meilleures pratiques qui rendent le développement à la fois un art et une science.
 <br><br>
 
