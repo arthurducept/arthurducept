@@ -38,4 +38,4 @@ N'hésitez pas à jeter un œil à mes repos, à les étoiler ⭐ si vous les tr
 <br><br><br><br>
 
 ---
-_Last Updated: Dim 31 Décembre 2023_
+_Last Updated: Lun 1 Janvier 2024_
