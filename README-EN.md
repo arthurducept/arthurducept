@@ -11,7 +11,7 @@ I'm also immersing myself in microservices architectures.
 ## 🌱 Skills
 
 Languages : JavaScript, Java, Dart  
-Frameworks : Node, Vue, Flutter, Angular, Spring Boot  
+Frameworks : Node, Vue, React, Flutter, Angular, Spring Boot  
 Tools : Docker, CI/CD  
 Methodologies : Agile, TDD
 <br><br>
