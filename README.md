@@ -35,6 +35,13 @@ La Formule 1 ? Comptez-moi dedans ! Rien de tel qu'un bon Grand Prix pour piment
 🔗 Réseaux : [Portfolio](https://arthurducept.fr) • [LinkedIn](https://www.linkedin.com/in/arthur-ducept/) • [StackOverflow](https://stackoverflow.com/users/14351523/arthur-ducept) • [LeetCode](https://leetcode.com/arthurducept/)  
 📧 Email : [contact@arthurducept.fr](mailto:contact@arthurducept.fr)  
 N'hésitez pas à jeter un œil à mes repos, à les étoiler ⭐ si vous les trouvez intéressants et à me contacter pour toute collaboration !
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/arthurducept"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurducept&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <br><br><br><br>
 
 ---
