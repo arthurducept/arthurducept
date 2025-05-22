@@ -45,4 +45,4 @@ N'hésitez pas à jeter un œil à mes repos, à les étoiler ⭐ si vous les tr
 <br><br><br><br>
 
 ---
-_Last Updated: Mer 21 Mai 2025_
+_Last Updated: Jeu 22 Mai 2025_
